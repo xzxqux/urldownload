@@ -33,9 +33,9 @@ cd urldownload
 ---
 
 <pre><b>
-Usage: urldownload.py [-h]
+Uso: urldownload.py [-h]
 
-Baixa arquivos da url
+Baixar arquivos via URL
 
 Comandos:
 	-o            Diretório para salvar os arquivos padrão: downloads
